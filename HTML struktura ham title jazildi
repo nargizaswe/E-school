@@ -14,3 +14,65 @@
     </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="kaa">
+<head>
+    <meta charset="UTF-8">
+    <title>E-school</title>
+
+    <link rel="icon" href="favicon.ico">
+
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        h1 {
+            margin-top: 20px;
+        }
+
+        .school_description {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 100px 0;
+            background-color: goldenrod;
+            padding: 30px 0;
+            border-radius: 20px;
+        }
+
+        .school_opportunities {
+            margin-top: 40px;
+        }
+
+        ul {
+            list-style-position: inside;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Bizdiń zamanagóy mektebimizge xosh kelipsiz!</h1>
+
+    <img src="school.png" alt="Mektep súwreti" width="200">
+
+    <p class="school_description">
+        Bizdiń mektebimiz zamanagóy texnologiyalar hám tájiriybeli ustazlar járdeminde bilim beriwdi maqset etken.
+    </p>
+
+    <h3 class="school_opportunities">Mektebimizdegi múmkinshilikler:</h3>
+
+    <ul>
+        <li>Zamanagóy kompyuter bólimi</li>
+        <li>Úlken sport zali</li>
+        <li>Bay kitapxana</li>
+        <li>Qolay asxana</li>
+    </ul>
+
+</body>
+</html>
+
+
+
